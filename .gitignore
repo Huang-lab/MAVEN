@@ -1,3 +1,16 @@
+# Ignore folders/files
+data/
+data*/
+s*-*/
+.DS_Store
+venv*/
+maven_*/
+figures_*/
+benchmarks/
+.ruffus_history.sqlite
+requirements2.txt
+training_data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
